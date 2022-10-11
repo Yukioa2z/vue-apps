@@ -174,6 +174,11 @@ import rotundaMap from './src/apps/Onboarding/rotundaMap/hubs'
 import Overview from './src/apps/Onboarding/Overview/hubs'
 import Back from './src/apps/Onboarding/Back/hubs'
 import Portals from './src/apps/Onboarding/Portals/hubs'
+
+// Yukio
+import Yukio_test from './src/apps/Yukio/Yukio_test/hubs'
+
+
 //test
 import AudioPad from './src/apps/AudioPad/hubs'
 import Label from './src/apps/Label/hubs'
@@ -219,7 +224,10 @@ export {
     Pit, PitInstruction, pitSign1,pitSign2,pitSign3,
     
     // Portal titles
-    PortalTitle, PortalSubtitle, GraphLabel,
+    PortalTitle, PortalSubtitle, GraphLabel, 
+    
+    //Yukio
+    Yukio_test,
     // Tests
     hubsTest1, hubsTest2, hubsTest3}
 
