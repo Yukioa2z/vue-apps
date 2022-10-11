@@ -177,6 +177,7 @@ import Portals from './src/apps/Onboarding/Portals/hubs'
 
 // Yukio
 import Yukio_test from './src/apps/Yukio/Yukio_test/hubs'
+import Yukio_test_2 from './src/apps/Yukio/Yukio_test_2/hubs'
 
 
 //test
@@ -227,7 +228,7 @@ export {
     PortalTitle, PortalSubtitle, GraphLabel, 
     
     //Yukio
-    Yukio_test,
+    Yukio_test, Yukio_test_2,
     // Tests
     hubsTest1, hubsTest2, hubsTest3}
 
